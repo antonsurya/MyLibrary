@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyLibrary</string><string name="btnLib">View Library</string><string name="btnScan">Scan books</string><string name="txtScanResult">Scan result:</string><string name="btnAdd">Add Books to Library</string>
+</resources>
